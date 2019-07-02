@@ -2,3 +2,5 @@
 css
 jacascript
 github
+sass
+wordpress
